@@ -8,12 +8,18 @@ A grocery-store operations CRM with a role-protected Node.js/TypeScript REST API
 
 The interactive tour documents **all 16 frontend sections**, with an illustrative screen, typical workflow, feature summary, and important operational notes:
 
+- **Inline animated walkthrough:** watch all 16 sections, including the full sidebar and header, right here in the README. Select the animation to open the complete video.
+
+| Complete interface walkthrough (loops inline) |
+|---|
+| [![Animated preview of the full grocery CRM, including the sidebar, header, and all 16 sections](docs/screenshots/product-tour.gif)](greenbasket-complete-product-tour.webm) |
+
 - [Open the interactive product tour](grocery-crm-product-tour.html)
-- [Download the complete section-by-section video](greenbasket-complete-product-tour.webm) (silent video)
+- [Download or play the complete section-by-section video](greenbasket-complete-product-tour.webm) (silent WebM video)
 - [Download all screen images as a PNG bundle](greenbasket-all-16-screen-images.zip)
 - Screenshots are also individually available in [docs/screenshots](docs/screenshots/).
 
-The screen images and video use sample data to illustrate the UI. They are not captures of a live production store, API responses, or actual transactions.
+The looping image and video show every screen and the complete navigation sidebar and header. Screen content uses illustrative sample data; it is not a live store, API response, or actual transaction.
 
 ## Screenshots
 
@@ -164,8 +170,3 @@ The frontend currently connects to these read and workflow APIs; the database sc
 ## Contributing and readiness
 
 Keep business rules and authorization in the API, use the existing `flutter_bloc` and repository patterns, and make schema changes as tracked PostgreSQL migrations. Before a real deployment, review roles and tax rules; replace the development seed credentials; configure HTTPS, private secrets, backups, monitoring, rate limiting, and session revocation; and implement, security-review, and test any provider integrations.
-#   g r o s a r y c r m  
- #   g r o s a r y c r m  
- #   g r o s a r y c r m  
- #   g r o s a r y c r m  
- 
