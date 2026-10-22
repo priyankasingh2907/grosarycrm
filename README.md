@@ -164,3 +164,8 @@ The frontend currently connects to these read and workflow APIs; the database sc
 ## Contributing and readiness
 
 Keep business rules and authorization in the API, use the existing `flutter_bloc` and repository patterns, and make schema changes as tracked PostgreSQL migrations. Before a real deployment, review roles and tax rules; replace the development seed credentials; configure HTTPS, private secrets, backups, monitoring, rate limiting, and session revocation; and implement, security-review, and test any provider integrations.
+#   g r o s a r y c r m  
+ #   g r o s a r y c r m  
+ #   g r o s a r y c r m  
+ #   g r o s a r y c r m  
+ 
